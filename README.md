@@ -7,7 +7,7 @@ Each lab includes three files to help you practice efficiently:
 
 - `starter.pkt` - To start the lab with the initial topology and instructions
 - `solution.pkt` - To compare your work with the final configured and working topology
-- `walkthrough.md` - To be guided through the objectives, topology overview, and step-by-step instructions
+- `hints.md` - Helpful tips, personal notes, video tutorials and more to guide you through the lab
 
 These labs complement the learning path from **Jeremy’s IT Lab**, offering additional hands-on practice.
 All diagrams, topologies, and content are **original**.
