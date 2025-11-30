@@ -27,7 +27,7 @@ All diagrams, topologies, and content are **original**.
 
 #### Additional Resources
 
-- Labs and PDF solutions are available via Google Drive: https://google.com
+- Labs and PDF solutions are available via Google Drive: https://drive.google.com/drive/u/1/folders/1isRrhHPDFOnouopLp2b3jJbhVMddYN4w
 - Cisco Official CCNA Exam Topics: https://learningnetwork.cisco.com/s/ccna-exam-topics
 - Download Packet Tracer: https://www.netacad.com/resources/lab-downloads
 - Jeremy’s IT Lab YouTube: https://www.youtube.com/@JeremysITLab
