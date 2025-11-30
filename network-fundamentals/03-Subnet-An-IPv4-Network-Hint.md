@@ -4,7 +4,7 @@ _Topics: subnetting, stactic routing_
 
 #### Topology
 
-![topology](./03-Subnet-An6IPv4-Network-Topology.png)
+![topology](/assets/network-fundamentals/03-Subnet-An6IPv4-Network-Topology.png)
 
 #### Instructions :
 
